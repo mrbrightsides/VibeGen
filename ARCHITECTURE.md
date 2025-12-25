@@ -6,6 +6,10 @@ The Cosmic Vibe Generator is built as a modern, serverless Next.js application w
 
 ---
 
+<img width="4350" height="5340" alt="Architecture Diagram VibeGen" src="https://github.com/user-attachments/assets/fb2a968f-028a-4e3a-9695-11874f613f3e" />
+
+<img width="15438" height="8047" alt="Architecture Diagram VibeGen Enhanced" src="https://github.com/user-attachments/assets/c561e7a3-5cc7-4a1e-b049-606e6ae3e000" />
+
 ## High-Level Architecture
 
 ```
