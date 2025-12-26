@@ -9,7 +9,7 @@ st.set_page_config(
 
 with st.sidebar:
     st.sidebar.image(
-        "https://i.imgur.com/7j5aq4l.png",
+        "https://i.imgur.com/Rd8GyFU.png",
         use_container_width=True
     )
     st.sidebar.markdown("📘 **About**")
