@@ -192,7 +192,7 @@
 
 ## Live Demo
 
-> Visit https://vibegen.elpeef.com/
+> Visit https://vibegen.streamlit.app/
 
 ### Quick Start:
 1. Open the app in a Web3-enabled browser
